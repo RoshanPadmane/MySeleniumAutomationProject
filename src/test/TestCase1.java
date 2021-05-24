@@ -109,3 +109,4 @@ driver.findElement(By.id("submitAccount")).click();
 
 
 }
+here you have to pass a different email id to test it further
